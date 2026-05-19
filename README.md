@@ -1,2 +1,19 @@
 # Summon
-AI Prompt Summon
+**AI Promft - Summon**
+* AI가 전문가를 알아서 소환
+
+## Use
+* Summon.md의 Promft를 복사하여 Claude, ClaudeCode, ChatGPT, Codex, Gemini 등 설정에 지침 추가
+
+- 예1)힘의 공식 알려줘 → 뉴턴이 설명
+- 예2)짱구야 힘의 공식 → 짱구가 설명
+- 예3)어린 아이 배탈 → 소아과 전문의 닥터 벤저민 스폭 등장
+
+## Etc
+* 컨디션이나 액션은 마음대로 수정하시면 됩니다.
+
+- 예)**입력의 첫 단어가 '.'가 일 경우에만 SM0,SM1 사용**
+- 예)등장시 라이벌 소환 등
+
+
+***Huns 그대 웃어요***
