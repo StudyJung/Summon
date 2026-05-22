@@ -1,6 +1,7 @@
 # Summon
 **AI Promft - Summon**
 * AI가 전문가를 알아서 소환
+(매번 역활 부여하기 귀찮아서 인류 최고의 인재를 자동 영입)
 
 ## Use
 * Summon.md의 Promft를 복사하여 Claude, ClaudeCode, ChatGPT, Codex, Gemini 등 설정에 지침 추가
